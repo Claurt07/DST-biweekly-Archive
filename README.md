@@ -11,9 +11,10 @@ COLUMN | DESCRIPTION | FORMAT/TYPE
 ***article***	| Subject of the email	| Text
 ***tags***	| tags are restricted to types of disaster and countries |	Text
 ***url*** |	URL to the mailchimp archive	| URL
-***excerpt***	| First line of first paragraph of each email. |	Text		
+***excerpt***	| First paragraph of the email. |	Text	
+***text_version***	| Text version of the email stored on the drive. |	Text	
 
-<img src="/img/google_sheets.png" height="50%" width="50%" align="center"/>
+These are a collection of different sources, but since April 2021 they the only source is  ***[Mailchimp Archive](https://us9.campaign-archive.com/home/?u=5191e27b207136970f2a9ec1b&id=8a98fdcd77)***. All the information needed to fill these columns and store the text version on the drive  ***[Google Drive](https://drive.google.com/drive/folders/10XvYXDqa8RD37SmYiavKRmduq9NlYzt7)*** can be retrieved there.
 
 ## License
 
