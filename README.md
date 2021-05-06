@@ -3,20 +3,17 @@ It is powered by ***[sheetsee-pocket/JLord](https://github.com/jlord)***.
 
 To feed this archive just fill the following columns on the Google Sheets: 
 
+<img src="/img/google_sheets.png" height="50%" width="50%" align="left"/>
 
 COLUMN | DESCRIPTION | FORMAT/TYPE
 ------ | ------|----------
 ***date***      | Date the email was sent   | DD/MM/YY
 ***article***	| Subject of the email	| Text
+***tags***	| tags are restricted to types of disaster and countries |	Category/Text
+***url*** |	URL to the mailchimp archive	| URL/Text
+***excerpt***	| First line of first paragraph of each email. |	Text		
 
-		
-		
 
-***tags***	tags are restricted to types of disaster and countries	Category/Text
-***url***	URL to the mailchimp archive	URL/Text
-***excerpt***	First line of first paragraph of each email. 	Text
-
-<img src="/img/google_sheets.png" height="50%" width="50%" align="left"/>
 
 ## License
 
