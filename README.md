@@ -7,8 +7,8 @@ To feed this archive just fill the following columns on the Google Sheets:
 Letter | Digit | Character
 ------ | ------|----------
 a      | 4     | $
-       | 365   | (
-b      |       | ^  
+------ | ------|----------
+a      | 4     | $
 
 COLUMN	DESCRIPTION	FORMAT/TYPE
 ***date***	Date the email was sent	DD/MM/YY
