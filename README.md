@@ -7,7 +7,6 @@ To feed this archive just fill the following columns on the Google Sheets:
 Letter | Digit | Character
 ------ | ------|----------
 a      | 4     | $
------- | ------|----------
 a      | 4     | $
 
 COLUMN	DESCRIPTION	FORMAT/TYPE
