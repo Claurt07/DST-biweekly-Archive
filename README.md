@@ -3,6 +3,13 @@ It is powered by ***[sheetsee-pocket/JLord](https://github.com/jlord)***.
 
 To feed this archive just fill the following columns on the Google Sheets: 
 
+
+Letter | Digit | Character
+------ | ------|----------
+a      | 4     | $
+       | 365   | (
+b      |       | ^  
+
 COLUMN	DESCRIPTION	FORMAT/TYPE
 ***date***	Date the email was sent	DD/MM/YY
 ***article***	Subject of the email	Text
